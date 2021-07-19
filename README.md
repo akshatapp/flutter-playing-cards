@@ -5,11 +5,13 @@
 * ✅ Simply double tap (double click) on the card to flip the card - Animation
 * ✅ Tap on the floating action button to shuffle cards
 
+
 ### App Design
 | Card Front | Card Back |
 | ------------- | ------------- |
 |![Card Front](https://github.com/akshatapp/flutter-playing-cards/blob/main/card-front.png)|![Card Back](https://github.com/akshatapp/flutter-playing-cards/blob/main/card-back.png)|
 
+### Try it using DartPad 📋 - [DartPad URL](https://dartpad.dev/?id=4cd7b12736966b639b3904261234c532)
 
 ### Getting Started 🚀
 * Download / Clone the repository
