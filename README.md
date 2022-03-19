@@ -1,5 +1,7 @@
 # Flutter 52 Playing Card Deck with Flip animation
 
+🔗 [52cards.pages.dev](https://52cards.pages.dev/) OR [GitHub Pages](https://akshatapp.github.io/flutter-playing-cards/) 
+
 * ✅ Flutter App with Web Support - [Flutter Web](https://akshatapp.github.io/flutter-playing-cards/) 
 * ✅ Running with sound null safety 💪
 * ✅ Simply double tap (double click) on the card to flip the card - Animation
